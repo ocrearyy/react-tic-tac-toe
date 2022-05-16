@@ -7,8 +7,8 @@ This is an interactive tic-tac-toe game made with React.It is a online game for 
 
 To get a local copy up and running follow these simple example steps.
 
-1. git clone 
-2. Cd into faq-accordion-card
+1. git clone git@github.com:oshanedesign/react-tic-tac-toe.git
+2. Cd into react-tic-tac-toe
 3. Run npm install to get all the required web packages 
 
 ### Run web package
